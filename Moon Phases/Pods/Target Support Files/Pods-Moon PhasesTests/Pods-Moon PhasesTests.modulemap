@@ -1,0 +1,6 @@
+framework module Pods_Moon_PhasesTests {
+  umbrella header "Pods-Moon PhasesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
