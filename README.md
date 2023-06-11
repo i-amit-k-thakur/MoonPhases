@@ -9,3 +9,9 @@ GET https://api.stormglass.io/v2/astronomy/point
 PARAMS: lat & lng
 ```
 ***The API call requires an API Key, which can be generated from the above link. This should be passed as the ```Authorization``` header***
+
+### DEPENDANCIES
+Dependancies will be managed using ```Cocoapods```
+
+List of dependancies used:
+- Nimble
